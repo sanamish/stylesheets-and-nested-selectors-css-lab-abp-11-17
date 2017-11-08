@@ -10,13 +10,16 @@ header nav{
 div.nav ul{
   padding:0
   margin-top: 40px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px
 }
 
 div.nav li{
   display:inline;
   margin-right: 10px
 }
-nav a{
+div.nav a{
   text-decoration: none;
   color: #007bff;
   font-size: 18px}
